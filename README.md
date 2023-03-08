@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm PIYUSH GHOSH(GURU)</h1>
-<h3 align="center">A passionate full-stack web developer from India.</h3>
+![LOGO](https://github.com/GURU1302/GURU1302/blob/main/BLack%20Minimalist%20Corporate%20Staff%20Identity%20LinkedIn%20Banner.png)
+
+<hr>
 
 <img align=“right” alt=“coding” width=“400” src=“https://github.com/GURU1302/GURU1302/blob/main/0660efe82fa3da42ed56eef013171835.gif”>
 
