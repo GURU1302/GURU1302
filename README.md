@@ -28,12 +28,12 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru1302&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guru1302&theme=great-gatsby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guru1302&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guru1302&show_icons=true&theme=great-gatsby)
 
 <hr>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=GURU1302&theme=radical&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=GURU1302&theme=great-gatsby&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
