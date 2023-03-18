@@ -4,6 +4,8 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/GURU1302/GURU1302/blob/main/0660efe82fa3da42ed56eef013171835.gif">
 
+<hr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guru1302&label=Profile%20views&color=0e75b6&style=flat" alt="guru1302" /> </p>
 
 - 🌱 I’m currently learning **Blockchain.**
