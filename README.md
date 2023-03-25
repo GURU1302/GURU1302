@@ -2,11 +2,15 @@
 
 <hr>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<!-- ### ✍️ Random Dev Quote -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=guru1302&icon=5&color=12)](https://visitcount.itsvg.in)
+
+
+<img align="right" alt="coding" width="375" height="260" src="https://github.com/one-saurabhsingh/one-saurabhsingh/blob/main/27130.jpg">
+
 
 - 🌱 I’m currently learning **Blockchain.**
 
