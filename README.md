@@ -27,6 +27,7 @@
 <a href="https://linkedin.com/in/piyush-guru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush-guru" height="30" width="40" /></a>
 <a href="https://codesandbox.com/guru1302" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="guru1302" height="30" width="40" /></a>
 <a href="https://www.codingninjas.com/codestudio/profile/418fd7d7-0f2d-4aeb-a34c-f1f8a375259b" target="blank"><img align="center" src="https://github.com/GURU1302/GURU1302/blob/main/1588578966qigpiu6kicm4phqbi2il.png" alt="guru1302" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/impiyushghosh" target="blank"><img align="center" src="https://github.com/GURU1302/GURU1302/blob/main/png-clipart-logo-hackerrank-where-s-weed-java-hacker.png" alt="guru1302" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
